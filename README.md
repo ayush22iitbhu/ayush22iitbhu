@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayush Shrivastava</h1>
 <h3 align="center">Student at IIT(BHU), Varanasi, India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayush22iitbhu" alt="ayush22iitbhu" /></a> </p>
 
 - 🌱 I’m currently learning **Data Science, Machine Learning**
 
