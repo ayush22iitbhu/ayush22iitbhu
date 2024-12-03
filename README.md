@@ -18,4 +18,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayush22iitbhu&show_icons=true&locale=en&layout=compact" alt="ayush22iitbhu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush22iitbhu&" alt="ayush22iitbhu" /></p>
-![Holopin Badge Board](https://www.holopin.io/@ayush22iitbhu)
+[![An image of @ayush22iitbhu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayush22iitbhu)](https://holopin.io/@ayush22iitbhu)
